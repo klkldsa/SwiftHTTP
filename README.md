@@ -1,4 +1,4 @@
-SwiftHTTP
+SwiftHTTP #sk https://test-ind-api.fyinformation.cc #hj
 =========
 
 SwiftHTTP is a thin wrapper around NSURLSession in Swift to simplify HTTP requests.
